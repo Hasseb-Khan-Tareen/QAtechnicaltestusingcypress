@@ -1,1 +1,1 @@
-# QAtechnicaltestusingcypress
+# QAtechnicaltest
